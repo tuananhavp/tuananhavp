@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Tuấn Anh</h1>
 <h3 align="center">Just a chill guy who is learning IT</h3>
 
