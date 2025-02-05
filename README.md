@@ -1,11 +1,8 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tuấn Anh</h1>
+<h3 align="center">Just a chill guy who is learning IT</h3>
 
 
-### ✍️Random Dev Quote
-![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://www.honestly.com/images/blog/2024/Motivational-quotes/Motivational-Quote-7.webp?_cchid=a8ba1d887462c59386e684794675e54b))
-
----
-[![](https://visitcount.itsvg.in/api?id=tuananhavp&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **tuananhavp/tuananhavp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
